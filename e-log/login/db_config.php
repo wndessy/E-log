@@ -1,10 +1,10 @@
 <?php
 
-$mysql_hostCource_code = "localhost";
-$mysql_user = "root";
-$mysql_password = "";
+$mysql_hostCource_code = "dbhost";
+$mysql_user = "dbuser";
+$mysql_password = "dbpassword";
 $mysql_database = "e-log";
-  $table='customer_complain';
+ $table='customer_complain';
  $table1='nrl';
  $table2='stagff';
  $table3='centers';
